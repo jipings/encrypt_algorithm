@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jipings/encrypt_algorithm#readme",
   "dependencies": {
+    "crypto-js": "^3.1.9-1",
     "hashids": "^1.1.4",
     "jssha": "^2.3.1"
   }
