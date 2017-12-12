@@ -20,6 +20,7 @@
   "dependencies": {
     "crypto-js": "^3.1.9-1",
     "hashids": "^1.1.4",
+    "jsencrypt": "^2.3.1",
     "jssha": "^2.3.1"
   }
 }
